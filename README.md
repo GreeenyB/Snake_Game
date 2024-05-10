@@ -10,7 +10,13 @@ Phạm Như Trung Hiếu - 23520490
 
 ## Những Nội Dung
 ```
-Game hiện tại chỉ là một phần nhỏ những gì có thể đạt được nếu phát triển game lâu dài hơn.
+Game hiện tại chỉ là một phần nhỏ những gì
+có thể đạt được nếu phát triển game lâu dài hơn.
+
 Trò con rắn chỉ hiện đến 30 điểm sẽ cho là Vicotry.
-Ý tưởng được lấy từ nhiều nơi nhưng chủ yếu game được phát triển theo phần game con rắn từ hổi xưa khi còn chơi trên điện thoại phím số nhưng có giới hạn điểm để thắng nhằm tạo ra độ dễ cho game.
+
+Ý tưởng được lấy từ nhiều nơi nhưng chủ yếu game được
+phát triển theo phần game con rắn từ hổi xưa khi còn chơi
+trên điện thoại phím số nhưng có giới hạn điểm để thắng
+nhằm tạo ra độ dễ cho game.
 ```
