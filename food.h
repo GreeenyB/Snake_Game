@@ -9,7 +9,7 @@ public :
         void draw();
         void generate(int, int);
         bool update(int, int);
-
+};
 void food::draw()
 {
      setcolor(RED);
